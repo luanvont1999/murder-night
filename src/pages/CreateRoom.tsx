@@ -1,8 +1,7 @@
 // src/components/CreateRoomScreen.tsx
-import React, { useState, useEffect } from "react"
+import React, { useState } from "react"
 import { useNavigate } from "react-router-dom"
-import { auth, db } from "@/services/firebase-config"
-import { useAuthState } from "react-firebase-hooks/auth"
+import { db } from "@/services/firebase-config"
 import {
   collection,
   doc,
@@ -29,25 +28,13 @@ function generateRandomRoomId(length: number = 7): string {
 }
 
 const CreateRoomScreen: React.FC = () => {
-  const [user, authLoading] = useAuthState(auth)
   const [roomName, setRoomName] = useState<string>("")
   const [isLoading, setIsLoading] = useState<boolean>(false)
   const [error, setError] = useState<string | null>(null)
   const [createdRoomId, setCreatedRoomId] = useState<string | null>(null)
   const navigate = useNavigate()
 
-  useEffect(() => {
-    if (!authLoading && !user) {
-      navigate("/auth")
-    }
-  }, [user, authLoading, navigate])
-
   const handleCreateRoom = async () => {
-    if (!user) {
-      setError("Bạn cần đăng nhập để tạo phòng.")
-      return
-    }
-
     setIsLoading(true)
     setError(null)
     setCreatedRoomId(null)
@@ -149,12 +136,6 @@ const CreateRoomScreen: React.FC = () => {
     }
   }
 
-  if (authLoading) {
-    return (
-      <div className="auth-loading">Đang kiểm tra trạng thái đăng nhập...</div>
-    )
-  }
-
   return (
     <div className="create-room-screen screen">
       <header className="screen-header">
@@ -165,11 +146,6 @@ const CreateRoomScreen: React.FC = () => {
         <div></div>
       </header>
       <div className="screen-content">
-        <p className="welcome-text">
-          Chào mừng, {user?.displayName || user?.email}! Hãy tạo một phòng để
-          bắt đầu cuộc điều tra theo kịch bản "
-          {(gameInfoJson as GameInfoTemplate).gameTitle}".
-        </p>
         <div className="form-container">
           <div className="form-group">
             <label htmlFor="roomName">Tên Phòng (Tùy chọn):</label>
@@ -189,7 +165,7 @@ const CreateRoomScreen: React.FC = () => {
 
           <button
             onClick={handleCreateRoom}
-            disabled={isLoading || !user}
+            disabled={isLoading}
             className="button-primary create-button"
           >
             {isLoading ? (

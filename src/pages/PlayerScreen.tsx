@@ -1,6 +1,5 @@
 // src/components/PlayerScreen.tsx
 import React, { useState, useEffect, useMemo } from "react"
-import { useParams } from "react-router-dom"
 import { db } from "@/services/firebase-config"
 import {
   doc,

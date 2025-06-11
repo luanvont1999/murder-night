@@ -1,7 +1,5 @@
 // src/components/tabs/LocationTab.tsx
 import React, { useState } from "react"
-import type { LocationTemplate, InteractiveItem } from "@/type" // Sử dụng kiểu mới
-
 interface LocationTabProps {
   locations: LocationTemplate[]
   knownClueIds: Set<string>
@@ -37,7 +35,7 @@ const LocationTab: React.FC<LocationTabProps> = ({
   // --- RENDER CHI TIẾT ĐỊA ĐIỂM (LỚP 1) VÀ CÁC VẬT PHẨM (LỚP 2) BÊN TRONG ---
   if (selectedLocation) {
     const generalDiscoverableCount = selectedLocation.generalClueIds.filter(
-      (id) => !knownClueIds.has(id)
+      (id: string) => !knownClueIds.has(id)
     ).length
     return (
       <div className="tab-pane active">
@@ -67,7 +65,7 @@ const LocationTab: React.FC<LocationTabProps> = ({
         <h4>Vật phẩm/Khu vực cụ thể:</h4>
         {selectedLocation.items.map((item: InteractiveItem) => {
           const itemDiscoverableCount = item.discoverableClueIds.filter(
-            (id) => !knownClueIds.has(id)
+            (id: string) => !knownClueIds.has(id)
           ).length
           return (
             <div key={item.id} className="item-card">
