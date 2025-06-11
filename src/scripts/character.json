@@ -1,0 +1,202 @@
+[
+  {
+    "name": "LEO",
+    "age": 26,
+    "position": "Trưởng Nhóm",
+    "starting_item": "Một lá thư từ Marius.",
+    "goals": {
+      "good_path": {
+        "name": "Trách Nhiệm Của Thủ Lĩnh",
+        "completion_conditions": [
+          "Bạn phải tìm ra manh mối then chốt tiết lộ kế hoạch thật sự của Marius.",
+          "Bạn phải công khai đứng ra bảo vệ và đoàn kết các thành viên trước một mối đe dọa từ bên ngoài (ví dụ: Domina, Verita)."
+        ]
+      },
+      "evil_path": {
+        "name": "Củng Cố Ngôi Vương",
+        "completion_conditions": [
+          "Bạn phải tìm và công khai ít nhất một thông tin bất lợi cho Sol để gieo rắc sự nghi ngờ.",
+          "Bạn phải bỏ phiếu kết tội Sol là Hung Thủ Thực Sự ở cuối game."
+        ]
+      }
+    }
+  },
+  {
+    "name": "ORION",
+    "age": 23,
+    "position": "Visual",
+    "starting_item": "Một bức thư tay bị xé một nửa (bạn tìm thấy trong thùng rác phòng Marius).",
+    "goals": {
+      "good_path": {
+        "name": "Tìm Lại Niềm Tin",
+        "completion_conditions": [
+          "Bạn phải tự mình công khai mối quan hệ của hai người trước tất cả người chơi",
+          "Bạn phải tìm được manh mối MT4 (kế hoạch của Marius tìm công ty nước ngoài cho Caelus & Orion) và hiểu được ý nghĩa thực sự của nó.",
+          "Vào cuối game, bạn phải công khai chia sẻ manh mối này và ý nghĩa của nó với Caelus, khẳng định lại tình yêu và niềm tin của bạn vào tương lai của cả hai trước sự chứng kiến của ít nhất một người chơi khác."
+        ]
+      },
+      "evil_path": {
+        "name": "Kẻ Phản Bội Bên Cạnh”",
+        "completion_conditions": [
+          "Bạn phải tìm được ít nhất hai thông tin (có thể là manh mối hoặc lời khai từ người khác) mà bạn cho rằng có thể liên quan đến Caelus và hành vi bạo lực (ví dụ: lời khai Caelus căm ghét Marius, Caelus có mặt gần hiện trường, một vật phẩm của Caelus tại hiện trường...).",
+          "Sau khi có \"bằng chứng\", bạn phải bí mật đối chất riêng với Caelus, nói ra những nghi ngờ của mình. Mục tiêu của bạn là hành động theo nỗi sợ hãi của mình, không nhất thiết phải buộc tội Caelus công khai."
+        ]
+      }
+    }
+  },
+  {
+    "name": "CAELUS",
+    "age": 23,
+    "position": "Main Dancer",
+    "starting_item": "Một tờ nội quy bổ sung viết tay của Marius.",
+    "goals": {
+      "good_path": {
+        "name": "Diệt Trừ Mối Họa",
+        "completion_conditions": [
+          "Bạn phải tìm được ít nhất một bằng chứng về bí mật của Leo (ví dụ: việc anh ta bí mật bàn bạc rời nhóm với Rexus).",
+          "Đảm bảo an toàn cho Orion bằng cách không thừa nhận mối quan hệ của hai người cho đến khi hạ bệ được Leo",
+          "Vào cuối game, bạn phải thành công vạch trần bí mật này, khiến ít nhất 3 người chơi khác công khai bày tỏ sự thất vọng hoặc mất lòng tin vào vai trò trưởng nhóm của Leo."
+        ]
+      },
+      "evil_path": {
+        "name": "Bản Năng Sinh Tồn",
+        "completion_conditions": [
+          "Nếu có bất kỳ người chơi nào (trừ bạn và Orion) công khai buộc tội bạn có quan hệ tình cảm với Orion, bạn phải thành công phủ nhận mối quan hệ đó, lái sự nghi ngờ hoặc trách nhiệm sang phía Orion (ví dụ: nói rằng \"Orion quá phụ thuộc vào tôi nên có chút nhầm lẫn\", hoặc \"Tôi chỉ coi cậu ấy như em trai\"). Sự phản bội của bạn phải thuyết phục đến mức người buộc tội tin hoặc tạm thời chuyển hướng."
+        ]
+      }
+    }
+  },
+  {
+    "name": "REXUS",
+    "age": 24,
+    "position": "Main Rapper",
+    "starting_item": "Một tin nhắn thoại đe dọa từ Marius.",
+    "goals": {
+      "good_path": {
+        "name": "Đối Diện Sự Thật",
+        "completion_conditions": [
+          "Tìm ra manh mối chứng tỏ có điều gì đó bất thường đã xảy ra sau khi bạn rời đi.",
+          "Chủ động thừa nhận hành vi xô xát của mình với ít nhất một người bạn tin tưởng (ví dụ: Leo)."
+        ]
+      },
+      "evil_path": {
+        "name": "Sống Sót Bằng Mọi Giá",
+        "completion_conditions": [
+          "Không ai phát hiện ra bạn chính là người đã xô ngã Marius.",
+          "Bạn phải thành công gieo rắc sự nghi ngờ lên ít nhất 2 người chơi khác."
+        ]
+      }
+    }
+  },
+  {
+    "name": "SOL",
+    "age": 25,
+    "position": "Main Vocalist",
+    "starting_item": "Một bản nhận xét demo ca khúc của bạn từ Marius.",
+    "goals": {
+      "good_path": {
+        "name": "Bảo Vệ Nàng Thơ",
+        "completion_conditions": [
+          "Vào cuối game, Lyra không bị kết tội là Hung Thủ Thực Sự.",
+          "Thành công giữ bí mật mối quan hệ của hai người."
+        ]
+      },
+      "evil_path": {
+        "name": "Nghệ Sĩ Độc Tôn",
+        "completion_conditions": [
+          "Bạn phải công khai chê bai hoặc tìm bằng chứng bất lợi cho các sáng tác của Silas.",
+          "Bạn phải thành công thuyết phục được Domina về tiềm năng solo của mình."
+        ]
+      }
+    }
+  },
+  {
+    "name": "SILAS",
+    "age": 22,
+    "position": "Composer",
+    "starting_item": "Một USB chứa bản demo bị từ chối và note từ Marius.",
+    "goals": {
+      "good_path": {
+        "name": "Sự Công Nhận Chân Chính",
+        "completion_conditions": [
+          "Bạn phải thành công đưa được chiếc USB chứa demo của mình cho Sol và thuyết phục anh ấy lắng nghe.",
+          "Vào cuối game, Sol phải công khai thừa nhận rằng ca khúc của bạn rất có tiềm năng."
+        ]
+      },
+      "evil_path": {
+        "name": "Trả Thù Kẻ Cắp Cảm Hứng",
+        "completion_conditions": [
+          "Bạn phải thực hiện thành công ít nhất hai hành động nhằm hạ bệ uy tín của Lyra",
+          "Vào cuối game, phải có ít nhất 2 người chơi khác đồng tình với những lời buộc tội của bạn nhắm vào Lyra."
+        ]
+      }
+    }
+  },
+  {
+    "name": "FELIX",
+    "age": 21,
+    "position": "Maknae",
+    "starting_item": "Một lịch trình cá nhân bị Marius dùng bút đỏ gạch đi.",
+    "goals": {
+      "good_path": {
+        "name": "Gia Đình Là Số Một",
+        "completion_conditions": [
+          "Vào cuối game, bạn không được bỏ phiếu kết tội cho bất kỳ thành viên nào của AURORA.",
+          "Bạn phải chủ động hòa giải hoặc đứng ra làm trung gian cho mâu thuẫn giữa ít nhất hai thành viên khác."
+        ]
+      },
+      "evil_path": {
+        "name": "Vì Ánh Hào Quang",
+        "completion_conditions": [
+          "Bạn phải bí mật báo cáo một điểm yếu hoặc một bí mật của một thành viên khác cho Domina.",
+          "Bạn phải thành công đề xuất một kế hoạch hoạt động cá nhân (tham gia show giải trí) trực tiếp với Domina."
+        ]
+      }
+    }
+  },
+  {
+    "name": "LYRA",
+    "age": 27,
+    "position": "Nhạc sĩ/Producer tự do",
+    "starting_item": "Một bản hợp đồng ca khúc với K-Star với các điều khoản bất lợi.",
+    "goals": {
+      "good_path": {
+        "name": "Tình Yêu Là Trên Hết",
+        "completion_conditions": [
+          "Vào cuối game, Sol không bị kết tội là Hung Thủ Thực Sự.",
+          "Mối quan hệ của hai bạn không bị công khai một cách thù địch (bị người khác vạch trần)."
+        ]
+      },
+      "evil_path": {
+        "name": "Dọn Dẹp Chướng Ngại Vật",
+        "completion_conditions": [
+          "Bạn phải công khai đưa ra một lập luận logic hoặc bằng chứng (dù là suy diễn) để buộc tội Silas.",
+          "Bạn phải bỏ phiếu kết tội Silas là Hung Thủ Thực Sự."
+        ]
+      }
+    }
+  },
+  {
+    "name": "STELLA",
+    "age": 29,
+    "position": "Head Stylist",
+    "starting_item": "Một chiếc charm cài áo hình ngôi sao bị gãy.",
+    "goals": {
+      "good_path": {
+        "name": "Tất Cả Vì Con",
+        "completion_conditions": [
+          "Tìm được ít nhất một bằng chứng cho thấy Marius vẫn còn nghĩ đến con trai Mario.",
+          "Vào cuối game, bạn không bị kết tội và bạn phải bỏ phiếu đúng cho Hung Thủ Thực Sự."
+        ]
+      },
+      "evil_path": {
+        "name": "Liên Minh Với Quỷ Dữ",
+        "completion_conditions": [
+          "Bạn phải thực hiện ít nhất hai hành động cụ thể để giúp đỡ Domina (ví dụ: cung cấp cho bà ta một manh mối quan trọng, hoặc chủ động lan truyền một tin đồn có lợi cho bà ta).",
+          "Vào cuối game, Domina không bị kết tội là Hung Thủ Thực Sự.",
+          "Trong phiên bỏ phiếu cuối cùng, bạn phải bỏ phiếu cho người mà Domina muốn đổ tội."
+        ]
+      }
+    }
+  }
+]

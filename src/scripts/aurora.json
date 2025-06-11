@@ -1,0 +1,26 @@
+{
+  "gameTitle": "OCCASUS: SECRETUM ULTIMUM AURORAE",
+  "gameStory": "Cái chết bí ẩn của MARIUS (Nam), người quản lý tài ba nhưng hà khắc của nhóm nhạc thần tượng nam hàng đầu AURORA. Vụ án xảy ra ngay trước buổi họp báo định mệnh công bố nhóm chính thức tan rã, làm hé lộ một mạng lưới phức tạp của những hiểu lầm, tham vọng, tình yêu bị ngăn cấm, và những bí mật đen tối đằng sau ánh hào quang của ngành giải trí.",
+  "victim": {
+    "name": "MARIUS",
+    "age": 42,
+    "gender": "Nam",
+    "role": "Quản lý chính của nhóm nhạc AURORA"
+  },
+  "setting": {
+    "mainLocation": "Tầng thượng của tòa nhà K-Star Entertainment",
+    "time": "Ngay trước buổi họp báo quan trọng"
+  },
+  "gameRules": {
+    "estimatedTime": "Khoảng 3-4 giờ",
+    "truthAndLieLaw": "Đa số người chơi (trừ Hung Thủ Thực Sự và REXUS) PHẢI LUÔN NÓI SỰ THẬT. Hung Thủ Thực Sự và REXUS được phép nói dối không giới hạn.",
+    "currency": {
+      "name": "Coin",
+      "startingAmount": 10
+    },
+    "cluePurchase": {
+      "costPerClue": 5,
+      "maxPurchasePerPlayer": 3
+    }
+  }
+}

@@ -1,10 +1,29 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import './index.css'
-import App from './App.tsx'
+import { createBrowserRouter, RouterProvider } from 'react-router-dom'
+
+import './main.css'
+import PlayerScreen from '@/pages/PlayerScreen'
+import CreateRoomScreen from '@/pages/CreateRoom'
+import JoinRoomHandler from '@/pages/JoinRoomHandler'
+
+const router = createBrowserRouter([
+  {
+    path: '/',
+    element: <PlayerScreen />,
+  },
+  {
+    path: '/create-room',
+    element: <CreateRoomScreen />,
+  },
+  {
+    path: '/join-room',
+    element: <JoinRoomHandler />,
+  },
+])
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <App />
+    <RouterProvider router={router} />
   </StrictMode>,
 )

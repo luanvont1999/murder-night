@@ -1,0 +1,92 @@
+[
+  {
+    "id": "LOC_MARIUS_OFFICE",
+    "name": "Văn phòng của Marius",
+    "description": "Nơi làm việc chính của Marius. Không khí có vẻ nặng nề sau sự việc. Bạn có thể tìm kiếm chung trong phòng hoặc kiểm tra các vật phẩm cụ thể.",
+    "generalClueIds": ["K3", "G4", "K4", "K5", "K6"],
+    "items": [
+      {
+        "id": "ITEM_DESK",
+        "name": "Bàn làm việc",
+        "description": "Một chiếc bàn gỗ sang trọng nhưng bề mặt hơi lộn xộn.",
+        "isLocked": false,
+        "discoverableClueIds": ["K1"]
+      },
+      {
+        "id": "ITEM_DRAWER",
+        "name": "Ngăn kéo bàn (Bị khóa)",
+        "description": "Một ngăn kéo bằng gỗ có ổ khóa nhỏ.",
+        "isLocked": true,
+        "passwordHint": "Một ngày quan trọng đối với AURORA. (1025)",
+        "discoverableClueIds": ["G12", "MT1", "MT3"]
+      },
+      {
+        "id": "ITEM_COMPUTER",
+        "name": "Máy tính cá nhân (Bị khóa)",
+        "description": "Một chiếc máy tính để bàn đang ở màn hình đăng nhập.",
+        "isLocked": true,
+        "passwordHint": "Tên của người con trai. (MARIO)",
+        "discoverableClueIds": ["K7", "K8"]
+      },
+      {
+        "id": "ITEM_SAFE",
+        "name": "Két sắt nhỏ (Bị khóa)",
+        "description": "Một chiếc két sắt nhỏ được giấu kín sau một bức tranh treo tường.",
+        "isLocked": true,
+        "passwordHint": "Tên của một người rất quan trọng trong quá khứ của Marius. (ELARA)",
+        "discoverableClueIds": ["MT8"]
+      }
+    ]
+  },
+  {
+    "id": "LOC_PRACTICE_ROOM",
+    "name": "Phòng tập chính AURORA",
+    "description": "Căn phòng rộng lớn với gương soi bao phủ một bức tường. Nơi đây đã chứng kiến vô số mồ hôi và nước mắt của cả nhóm.",
+    "generalClueIds": ["MD4", "G18"],
+    "items": [
+      {
+        "id": "LOCKER_LEO",
+        "name": "Tủ đồ của Leo",
+        "description": "Tủ đồ được dán sticker hình sư tử.",
+        "isLocked": true,
+        "passwordHint": "Ngày anh ấy được chọn làm trưởng nhóm.",
+        "characterOwnerId": "LEO",
+        "discoverableClueIds": ["MD1", "G14"]
+      },
+      {
+        "id": "LOCKER_SOL",
+        "name": "Tủ đồ của Sol",
+        "description": "Tủ đồ có dán các nốt nhạc và lời bài hát.",
+        "isLocked": true,
+        "passwordHint": "Tên nàng thơ của anh ấy.",
+        "characterOwnerId": "SOL",
+        "discoverableClueIds": ["MD2"]
+      },
+      {
+        "id": "LOCKER_REXUS",
+        "name": "Tủ đồ của Rexus",
+        "description": "Tủ đồ được sơn màu đen với các hình vẽ graffiti.",
+        "isLocked": true,
+        "passwordHint": "Một con số quen thuộc với giới underground.",
+        "characterOwnerId": "REXUS",
+        "discoverableClueIds": ["MD3"]
+      }
+    ]
+  },
+  {
+    "id": "LOC_STYLIST_ROOM",
+    "name": "Phòng làm việc của Stylist",
+    "description": "Một căn phòng sáng tạo với các mẫu vải, lookbook và bản phác thảo thời trang.",
+    "generalClueIds": ["MD5"],
+    "items": [
+      {
+        "id": "ITEM_STELLA_CABINET",
+        "name": "Tủ tài liệu của Stella (Bị khóa)",
+        "description": "Một chiếc tủ tài liệu bằng kim loại, trông có vẻ được khóa cẩn thận.",
+        "isLocked": true,
+        "passwordHint": "Thứ cô ấy vừa yêu vừa hận. (AURORA)",
+        "discoverableClueIds": ["MT9", "NOTE1"]
+      }
+    ]
+  }
+]

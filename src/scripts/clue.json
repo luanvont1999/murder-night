@@ -1,0 +1,282 @@
+[
+  {
+    "id": "K2",
+    "name": "Báo cáo sơ bộ của cảnh sát",
+    "location": "GM cung cấp như một “manh mối công cộng” vào giữa game.",
+    "content": "BÁO CÁO SƠ BỘ HIỆN TRƯỜNG - VỤ ÁN TÒA NHÀ K-STAR\n\nNạn nhân: MARIUS (Quản lý nghệ sĩ)\n\nThời gian tử vong ước tính: Trong khoảng 14:30 - 16:30, ngày [Ngày xảy ra vụ án].\n\nNguyên nhân tử vong sơ bộ: Ngạt thở cơ học do có dấu hiệu siết cổ.\n\nQuan sát khác: Phát hiện một vết tụ máu lớn ở vùng sau đầu của nạn nhân, cho thấy có một cú va đập mạnh xảy ra trước thời điểm tử vong, có khả năng có hai hung thủ hoặc hung thủ đánh ngất nạn nhân rồi ra tay sát hại. Không có dấu hiệu vật lộn rõ ràng tại vị trí phát hiện thi thể (phòng vệ sinh).\n\nTrong phòng có rất nhiều dấu vân tay để lại, hiện tại đang xác minh chủ nhân của các dấu vân tay trên.",
+    "purpose": "Là manh mối then chốt, chia hành vi phạm tội thành hai phần (va đập và siết cổ), có thể dùng để minh oan cho một người và hướng nghi ngờ sang người khác.",
+    "gm_explanation": "Manh mối then chốt. Nó chia hành vi phạm tội thành hai phần: 1) va đập gây bất tỉnh (hành động của Rexus) và 2) siết cổ gây chết người (hành động của Domina). Manh mối này có thể minh oan cho Rexus và hướng cuộc điều tra vào hung thủ thật sự."
+  },
+  {
+    "id": "K7",
+    "name": "Email đã xóa trong thùng rác máy tính",
+    "location": "Trong máy tính của Marius (cần mật khẩu MARIO).",
+    "content": "Người gửi: marius.kstar@email.com\nNgười nhận: Elara_J@email.com\nChủ đề: Vấn đề K-Star - Cần tư vấn khẩn cấp\n\nTình hình đang trở nên rất nguy cấp. Tôi có trong tay bằng chứng cho thấy CEO Domina đang có những hành vi vi phạm nghiêm trọng, bao gồm việc cố gắng bán công ty cho đối tác nước ngoài và có dấu hiệu biển thủ công quỹ.\n\nTôi cần cô để có thể vạch trần bà ta một cách hợp pháp, đồng thời bảo vệ an toàn và tương lai cho nhóm nhạc AURORA. Vui lòng sắp xếp một cuộc gặp bí mật càng sớm càng tốt.\n\nTrân trọng,\nMarius.",
+    "purpose": "Cung cấp bằng chứng về động cơ giết người của Domina.",
+    "gm_explanation": "Bằng chứng quan trọng nhất về bí mật của Domina. Nó cho thấy Marius đã nắm được thóp của bà ta và sắp hành động."
+  },
+  {
+    "id": "K11",
+    "name": "Lời khai của nhân viên vệ sinh",
+    "location": "Lời khai có thể được “mua” từ GM.",
+    "content": "“Vào khoảng 4 giờ chiều, tôi đang lau dọn hành lang thì thấy tôi thấy cô Lyra rời khỏi phòng làm việc của Marius một cách vội vã, có vẻ như cô ấy đã chứng kiến điều gì đó. Tiếp đến, cậu Sol đi ra từ phía khu văn phòng. Trông cậu ấy có vẻ hoảng sợ, mặt mày tái mét.”",
+    "purpose": "Đổ nghi ngờ lên Lyra (vì đã chứng kiến mà không báo) và Sol (vì có mặt tại hiện trường với vẻ hoảng sợ).",
+    "gm_explanation": "Manh mối cho việc Lyra đã chứng kiến Sol bên cạnh cái xác và quyết định bỏ đi."
+  },
+  {
+    "id": "K1",
+    "name": "Điện thoại của Marius",
+    "location": "Trên bàn làm việc của Marius.",
+    "content": "Tin nhắn từ 'Elara' gửi lúc 15:30: “Mọi chuyện ổn thỏa rồi chứ? Kế hoạch vẫn như cũ nhé.”",
+    "purpose": "Tạo ra nghi ngờ về một nhân vật bí ẩn tên Elara và một 'kế hoạch' không rõ ràng, đồng thời xác nhận thời điểm sự việc bắt đầu leo thang.",
+    "gm_explanation": "Tạo ra nghi ngờ mạnh mẽ cho Domina về Elara. “Kế hoạch” là một từ rất mơ hồ. Bằng chứng cho việc mọi chuyện bắt đầu xảy ra vào lúc 15:00."
+  },
+  {
+    "id": "K3",
+    "name": "Vết xước trên sàn nhà",
+    "location": "Trên sàn nhà trong văn phòng Marius.",
+    "content": "Một vệt xước mờ nhưng khá dài, kéo dài từ giữa phòng đến cửa phòng vệ sinh.",
+    "purpose": "Chứng tỏ thi thể đã bị di chuyển, cho thấy hành động có tính toán và che giấu, không phải bộc phát.",
+    "gm_explanation": "Chứng tỏ thi thể đã bị di chuyển để che giấu. Điều này cho thấy một hành động có tính toán, không phải bộc phát, làm giảm nghi ngờ cho Rexus và tăng nghi ngờ cho Domina."
+  },
+  {
+    "id": "MD1",
+    "name": "Bản Kế Hoạch Album Chi Tiết của Leo",
+    "location": "Trong túi xách hoặc cặp tài liệu của Leo.",
+    "content": "DỰ ÁN ALBUM MỚI - AURORA: REBIRTH\nNgười đề xuất: Leo (Trưởng nhóm)\nĐịnh hướng: Âm nhạc trưởng thành hơn, kết hợp EDM và R&B.\nNgười phê duyệt: Domina\nGhi chú viết tay: “Định hướng của Marius quá cũ kỹ, không còn phù hợp. Phải tìm cách thuyết phục ban lãnh đạo, bỏ qua Marius.”",
+    "purpose": "Cung cấp bằng chứng về tham vọng và mâu thuẫn chiến lược của Leo với Marius.",
+    "gm_explanation": "Bằng chứng về tham vọng và sự bất mãn của Leo. Mâu thuẫn của Leo với Marius không chỉ là cảm tính, mà là một cuộc đối đầu về mặt chiến lược."
+  },
+  {
+    "id": "MD2",
+    "name": "Tin nhắn với Nhà sản xuất độc lập của Sol",
+    "location": "Trong điện thoại của Sol (túi áo khoác hoặc đồ dùng cá nhân).",
+    "content": "[IndieKing_Producer]: Nghe demo của cậu rồi. Rất tuyệt. Giọng hát của cậu rất đặc biệt. Nếu có thể thoát khỏi hợp đồng với K Star, chúng ta có thể làm nên chuyện lớn.\n[Sol_Official]: Thật sao ạ? Nhưng hợp đồng của em…\n[IndieKing_Producer]: Cứ suy nghĩ đi. Hãy cho tôi biết khi cậu sẵn sàng.",
+    "purpose": "Biến mong muốn solo của Sol thành một kế hoạch khả thi, xem Marius và hợp đồng K-Star là vật cản.",
+    "gm_explanation": "Biến mong muốn solo của Sol từ một ước mơ thành một kế hoạch khả thi. Marius và hợp đồng với K-Star trở thành vật cản hữu hình duy nhất."
+  },
+  {
+    "id": "MD3",
+    "name": "Hóa Đơn Viện Phí của Gia Đình Rexus",
+    "location": "Trong ví của Rexus.",
+    "content": "YÊU CẦU THANH TOÁN\nNgười gửi: Công ty K*Start Entertainmain\nNgười phê duyệt: Marius\nNgười nhận: Rexus\nSố tiền: 50,000,000 KRW\nGhi chú: Quá hạn thanh toán 3 năm. Vui lòng thanh toán trước ngày 01/07/2025.",
+    "purpose": "Cung cấp bằng chứng Rexus nợ Marius một khoản tiền lớn, tạo ra động cơ tài chính.",
+    "gm_explanation": "Bằng chứng cho việc Rexus nợ mộ khoản tiền lớn từ Marius."
+  },
+  {
+    "id": "MD4",
+    "name": "Thông tin về M chấp nhận kết hôn đồng giới",
+    "location": "Kẹp trong một cuốn tạp chí hoặc dưới đệm ghế ở phòng tập.",
+    "content": "Tờ báo cắt ra về tin tức “Quy định liên quan đến việc định cư tại M”. Một đoạn văn được đánh dấu highlight: “…Người nộp đơn cần chứng minh tài chính và đảm bảo các yêu cầu khác như…”",
+    "purpose": "Cho thấy Caelus và Orion đang tìm một giải pháp cực đoan để thoát khỏi áp lực từ Marius.",
+    "gm_explanation": "Cho thấy mức độ cùng quẫn của Caelus và Orion. Áp lực từ Marius lớn đến mức họ phải tìm đến những giải pháp cực đoan."
+  },
+  {
+    "id": "MD5",
+    "name": "Thư Báo Nợ của Gia Đình Stella",
+    "location": "Trên bàn làm việc hoặc trong ngăn kéo tại phòng làm việc của Stella.",
+    "content": "THƯ THÔNG BÁO CUỐI CÙNG\nKính gửi bà Stella, … khoản vay của bà đã quá hạn… Nếu không thanh toán số tiền [70.000.000KRW] trước ngày [10/7/2025], chúng tôi buộc phải tiến hành thủ tục tịch thu tài sản…",
+    "purpose": "Tạo ra động cơ tài chính tuyệt vọng cho Stella.",
+    "gm_explanation": "Tạo ra một “đồng hồ đếm ngược” cho động cơ của Stella, biến mong muốn có tiền của cô thành một sự tuyệt vọng."
+  },
+  {
+    "id": "MD6",
+    "name": "Bản Nhạc Chi Chít Chữ của Silas",
+    "location": "Trong tập bản thảo nhạc của Silas.",
+    "content": "Những dòng chữ được viết đi viết lại một cách nguệch ngoạc, đè lên nhau: 'Ông ta sai rồi. Lyra sẽ hiểu. Ông ta sai rồi. Lyra sẽ hiểu. Ông ta sai rồi. Ông ta sai rồi. Ông ta sai rồi. Lyra sẽ hiểu. Lyra sẽ hiểu…'",
+    "purpose": "Cho thấy trạng thái tinh thần bất ổn và nỗi ám ảnh của Silas với cả Marius và Lyra.",
+    "gm_explanation": "Cho thấy trạng thái tinh thần bất ổn và nỗi ám ảnh của Silas với cả Marius và Lyra."
+  },
+  {
+    "id": "G9",
+    "name": "Thư Cảnh Cáo Một Nhân Viên Khác",
+    "location": "Trong thùng rác của Phòng Chờ VIP.",
+    "content": "QUYẾT ĐỊNH CHẤM DỨT HỢP ĐỒNG LAO ĐỘNG\nTên: Quản lý Kang Min-jun\nLý do: Thiếu năng lực quản lý, gây ảnh hưởng tiêu cực và làm lộ thông tin nội bộ của nghệ sĩ. Quyết định có hiệu lực ngay lập tức.\nNgười ký: Marius",
+    "purpose": "Tạo ra một nghi phạm 'ma' không có trong game để làm loãng sự nghi ngờ.",
+    "gm_explanation": "Tạo ra một nghi phạm “ma”, làm loãng sự nghi ngờ và buộc người chơi phải cân nhắc khả năng có kẻ thù bên ngoài trả thù."
+  },
+  {
+    "id": "G11",
+    "name": "Mẩu Giấy Viết Tay Nặc Danh",
+    "location": "Trong thùng rác của văn phòng Marius.",
+    "content": "“Tôi sẽ làm cho mọi thứ trở về đúng vị trí của nó. Ông sẽ phải hối hận.”",
+    "purpose": "Manh mối giả, có thể đổ tội cho bất kỳ nhân vật nào có tham vọng như Leo, Sol, hoặc Verita.",
+    "gm_explanation": "Manh mối giả đổ tội cho những nhân vật có tham vọng như Leo, Sol, và đặc biệt là Verita."
+  },
+  {
+    "id": "G12",
+    "name": "Sao Kê Giao Dịch Đáng Ngờ của Marius",
+    "location": "Trong ngăn kéo bàn làm việc của Marius (cần mật khẩu 1025).",
+    "content": "Sao kê ngân hàng có một dòng rút tiền mặt nổi bật:\nNgày: 11/6/2024\nNội dung: Rút tiền mặt tại quầy\nSố tiền: - 100,000,000 KRW",
+    "purpose": "Tạo bí ẩn về việc Marius rút một số tiền lớn để làm gì, có thể liên quan đến Rexus hoặc Stella.",
+    "gm_explanation": "Tạo ra bí ẩn xung quanh nạn nhân. Marius cần tiền để làm gì? Trả nợ cho Rexus? Bị Stella tống tiền?"
+  },
+  {
+    "id": "G13",
+    "name": "Lịch sử tìm kiếm trên máy tính bảng chung",
+    "location": "Trên máy tính bảng để trên bàn ở Phòng Chờ VIP.",
+    "content": "Lịch sử tìm kiếm gần đây: 'Liều lượng thuốc ngủ gây tử vong', 'Cách bí mật đầu độc người khác', 'Hợp đồng bảo hiểm nhân thọ chi trả khi nào', 'Cách làm giả hiện trường vụ án', 'Những vụ án giết người chưa được phá giải'.",
+    "purpose": "Manh mối gây nhiễu, hướng sự nghi ngờ mạnh mẽ đến Orion (người có thuốc ngủ) và Stella (người có động cơ bảo hiểm).",
+    "gm_explanation": "Manh mối cực kỳ bất lợi cho Orion (người có thuốc ngủ) và Stella (người có động cơ bảo hiểm)."
+  },
+  {
+    "id": "G14",
+    "name": "Bản nháp hợp đồng solo của Leo (với công ty đối thủ)",
+    "location": "Trong túi đồ tập gym của Leo.",
+    "content": "Email nháp gửi đến recruit@yj-entertainment.com\nChủ đề: Thảo luận về hợp đồng cá nhân - Leo (AURORA)\n\nKính gửi bộ phận tuyển dụng của YJ Entertainment,\nTôi là Leo, trưởng nhóm của AURORA. Như đã trao đổi sơ bộ, tôi viết email này để bày tỏ mong muốn được chính thức thảo luận về việc phát triển sự nghiệp cá nhân…",
+    "purpose": "Gieo rắc sự nghi ngờ về lòng trung thành của Leo, đặc biệt đối với các thành viên trong nhóm.",
+    "gm_explanation": "Gieo rắc sự nghi ngờ vào lòng trung thành của Leo, đặc biệt là với Rexus."
+  },
+  {
+    "id": "G15",
+    "name": "Hóa đơn nhà hàng của Lyra",
+    "location": "Kẹp trong một cuốn tạp chí ở Phòng Chờ VIP.",
+    "content": "NHÀ HÀNG LA CIEL\nBữa tối lãng mạn dành cho 2 người.\nTổng cộng: 450,000 KRW\nChữ ký người thanh toán: Lyra",
+    "purpose": "Tạo ra sự nghi ngờ về lòng chung thủy của Lyra đối với Sol, vì hóa đơn không ghi tên người đi cùng.",
+    "gm_explanation": "Tạo ra sự nghi ngờ về lòng chung thủy của Lyra đối với Sol."
+  },
+  {
+    "id": "G16",
+    "name": "Sổ tay ghi chép của Felix",
+    "location": "Rơi ra từ túi áo khoác của Felix trong phòng thay đồ.",
+    "content": "Ghi chép về các thành viên:\n- Anh Leo: luôn muốn mọi thứ theo ý mình, rất ghét bị phản đối.\n- Anh Rexus: dễ nổi nóng khi bị nói về tiền bạc, có vẻ đang nợ rất nhiều.\n- Anh Sol: rất ghét ai chê nhạc của mình, dạo này hay lén lút nghe điện thoại.\n- Chị Domina: rất đáng sợ… nhưng bà ta có thể…",
+    "purpose": "Phá vỡ hình ảnh ngây thơ của Felix, khiến mọi người nghĩ cậu là một 'gián điệp' đang thu thập thông tin.",
+    "gm_explanation": "Phá vỡ hình ảnh ngây thơ của Felix, khiến mọi người nghĩ cậu là một “gián điệp”."
+  },
+  {
+    "id": "G17",
+    "name": "Tin nhắn nháp của Stella",
+    "location": "Trên máy tính bảng ở Phòng Chờ VIP.",
+    "content": "Tin nhắn nháp gửi Leo: 'Leo à, chị thấy Sol dạo này lạ lắm, hay đi với người của công ty đối thủ… Chị lo là nó có ý định phản bội nhóm mình. Em là trưởng nhóm, nên để ý nó một chút.'",
+    "purpose": "Cho thấy Stella dường như đang cố tình gây chia rẽ nội bộ, phá hủy hình ảnh người chị đáng tin cậy.",
+    "gm_explanation": "Cho thấy Stella dường như đang cố tình gây chia rẽ nội bộ, phá hủy hình ảnh người chị cả đáng tin cậy."
+  },
+  {
+    "id": "G18",
+    "name": "Bản nhạc có ghi chú của Orion",
+    "location": "Rơi ở khu vực phòng tập.",
+    "content": "Một tờ giấy chép nhạc với giai điệu buồn. Ở cuối trang, có một dòng ghi chú nhỏ bằng nét chữ khác: “Giai điệu này hay quá. Cảm ơn Silas đã viết tặng em.” - O.",
+    "purpose": "Tạo ra một mối liên kết bí mật và bất ngờ giữa Silas và Orion, có thể khiến Caelus ghen tuông.",
+    "gm_explanation": "Tạo ra một mối liên kết bí mật và bất ngờ giữa Silas và Orion, có thể khiến Caelus ghen tuông."
+  },
+  {
+    "id": "G19",
+    "name": "Thư tống tiền viết dở của Rexus",
+    "location": "Trong thùng rác của phòng thay đồ.",
+    "content": "Các mảnh giấy bị xé vụn, có thể ghép lại: 'Tao đã biết bí mật về khoản nợ. Nếu mày không muốn nó bị phanh phui thì trả tiền cho tao, nếu không thì đừng trách…'",
+    "purpose": "Mở rộng động cơ tống tiền của Rexus, khiến người chơi nghĩ anh ta không chỉ có mâu thuẫn với Marius mà còn đang nhắm vào người khác.",
+    "gm_explanation": "Mở rộng động cơ tống tiền của Rexus. Người chơi sẽ nghĩ anh ta không chỉ có mâu thuẫn với Marius mà còn đang nhắm vào một nhân vật nữ khác."
+  },
+  {
+    "id": "G20",
+    "name": "Sơ đồ dự án của Verita",
+    "location": "Rơi ra từ cặp tài liệu của Verita.",
+    "content": "DỰ ÁN MỚI: “ODYSSEY”\nConcept: Trio Siêu Đẳng\nThành viên:\n- Sol (Vocal Lead)\n- Leo (Dance Lead)\n- Domina (Nhà sản xuất)",
+    "purpose": "Cho thấy Verita dường như đang lên kế hoạch 'rút ruột' AURORA và hợp tác với Domina, tạo ra mâu thuẫn lợi ích.",
+    "gm_explanation": "Cho thấy Verita dường như đang lên kế hoạch “rút ruột” AURORA, tạo ra mâu thuẫn và củng cố động cơ của cô. Tạo nghi vấn cho mọi người về việc cô ta hợp tác với Domina, điều này có thể gây mất lòng tin nội bộ kể cả khi Verita chọn làm người tốt."
+  },
+  {
+    "id": "G21",
+    "name": "Thiệp sinh nhật cũ của Lyra gửi Silas",
+    "location": "Trên bàn ở một khu vực chung.",
+    "content": "“Gửi Silas, phần trình diễn hôm trước thật tuyệt vời, em chưa bao giờ xem tiết mục nào hay đến vậy! Chúc mừng sinh nhật anh. Em rất ngưỡng mộ các tác phẩm của anh. Mong sớm được hợp tác cùng anh trong một dự án nào đó nhé! Lyra”",
+    "purpose": "Làm phức tạp thêm tam giác tình cảm Silas - Lyra - Sol, khiến Lyra trông như một người đang thao túng tình cảm.",
+    "gm_explanation": "Làm phức tạp thêm tam giác tình cảm Silas - Lyra - Sol, khiến Lyra trông như một người đang thao túng tình cảm của cả hai."
+  },
+  {
+    "id": "G23",
+    "name": "Lịch trình nhóm bị đánh dấu",
+    "location": "Trên bàn ở Phòng Chờ VIP.",
+    "content": "Một bản in lịch trình hàng tuần của nhóm, trong đó các cuộc hẹn riêng của một vài thành viên bị khoanh tròn đỏ và có dấu chấm hỏi bên cạnh:\n- Thứ 3, 12:00: Leo gặp Quản lý Marius (?)\n- Thứ 3, 16:00: Sol gặp Quản lý Marius (?)\n- Thứ 4: Lyra - Họp riêng dự án mới (?)",
+    "purpose": "Gieo rắc sự hoang mang, nghi ngờ lẫn nhau về việc ai đang theo dõi các thành viên khác.",
+    "gm_explanation": "Gieo rắc sự hoang mang, nghi ngờ lẫn nhau. Ai đang theo dõi các thành viên khác?"
+  },
+  {
+    "id": "K4",
+    "name": "Danh thiếp công ty nước ngoài",
+    "location": "Rơi gần giá sách trong văn phòng Marius.",
+    "content": "Danh thiếp của 'Stellaris Entertainment - Nơi tài năng tỏa sáng'. Ghi chú viết tay: 'Liên hệ Mr. Chen - cho Caelus & Orion. Môi trường an toàn, đảm bảo không có sự kỳ thị hay phân biệt giới tính. Mọi thứ đều sẽ được bảo mật tuyệt đối.'",
+    "purpose": "Cho thấy Marius đang bí mật tìm một con đường mới an toàn hơn cho Caelus và Orion.",
+    "gm_explanation": "Manh mối “Marius người tốt”, cho thấy Marius đang bí mật tìm một con đường mới cho Caelus và Orion."
+  },
+  {
+    "id": "K5",
+    "name": "Sổ tay trên bàn làm việc của Marius",
+    "location": "Trên bàn làm việc của Marius.",
+    "content": "Ghi chú trong trang gần nhất: “Silas - tài năng tốt, cần bảo vệ, vấn đề bản quyền!! Nguy cơ bị Lyra kiện nếu không cẩn thận. Phải nói chuyện lại với cả hai.”",
+    "purpose": "Cho thấy Marius không vùi dập Silas mà đang lo lắng về vấn đề bản quyền cho cậu.",
+    "gm_explanation": "Manh mối “Marius người tốt”, cho thấy Marius không vùi dập Silas mà đang lo lắng về vấn đề bản quyền cho cậu."
+  },
+  {
+    "id": "K6",
+    "name": "Lịch trình trên bàn làm việc của Marius",
+    "location": "Trên bàn làm việc của Marius.",
+    "content": "Tờ lịch để bàn ghi: '12:00: Gặp Leo', '16:00: Gặp Sol'",
+    "purpose": "Đặt Leo và Sol vào 'tầm ngắm', buộc họ phải giải thích về những cuộc hẹn này.",
+    "gm_explanation": "Đặt Leo và Sol vào “tầm ngắm”, buộc họ phải giải thích về những cuộc hẹn này."
+  },
+  {
+    "id": "K8",
+    "name": "File ghi âm trong máy tính",
+    "location": "Trong máy tính của Marius (cần mật khẩu Mario).",
+    "content": "File âm thanh 'Min_conversation.mp3' có giọng Marius mệt mỏi: “…Tôi không thể để thảm kịch năm đó lặp lại, Min à. Tôi đã mất tất cả một lần rồi. Lần này, tôi phải bảo vệ AURORA bằng mọi giá, kể cả khi chúng nó ghét tôi…”",
+    "purpose": "Xây dựng chiều sâu nhân vật cho Marius, cho thấy sự hà khắc của ông xuất phát từ một tổn thương trong quá khứ.",
+    "gm_explanation": "Xây dựng chiều sâu nhân vật cho Marius, cho thấy sự hà khắc của ông xuất phát từ một tổn thương trong quá khứ."
+  },
+  {
+    "id": "MT1",
+    "name": "Hợp đồng solo trong ngăn kéo bàn",
+    "location": "Trong ngăn kéo bàn làm việc (cần mật khẩu 1025).",
+    "content": "BẢN DỰ THẢO HỢP ĐỒNG HOẠT ĐỘNG SOLO\nBên A: Công ty K-Star Entertainment\nBên B: Leo (Nghệ danh: Leo)\nGhi chú của Marius đính kèm: “Phần thưởng cho sự cống hiến của một người trưởng nhóm thực thụ. Đợi thời điểm thích hợp.”",
+    "purpose": "Lật ngược suy nghĩ của Leo, cho thấy Marius thực chất đang bí mật chuẩn bị một tương lai tốt đẹp cho anh.",
+    "gm_explanation": "Manh mối “Marius người tốt”. Trái ngược với suy nghĩ của Leo, Marius thực chất đang bí mật chuẩn bị một tương lai xán lạn cho anh."
+  },
+  {
+    "id": "MT3",
+    "name": "Biên lai chuyển tiền trong ngăn kéo bàn",
+    "location": "Trong ngăn kéo bàn làm việc (cần mật khẩu 1025).",
+    "content": "Biên lai chuyển tiền từ ngân hàng.\nXác nhận đã trả đủ tiền.\nNgười nhận: Công ty K-Start Entertaiment\nNgười thanh toán: Marius\nGhi chú: “Giải quyết rắc rối cho Rexus. Thằng bé không được biết.”",
+    "purpose": "Lật ngược hoàn toàn mâu thuẫn giữa Marius và Rexus, cho thấy ông đã âm thầm giúp đỡ anh.",
+    "gm_explanation": "Manh mối “Marius người tốt”. Nó lật ngược hoàn toàn mâu thuẫn giữa Marius và Rexus, cho thấy ông đã âm thầm giúp đỡ anh."
+  },
+  {
+    "id": "MT8",
+    "name": "Hồ sơ bệnh án trong két sắt nhỏ",
+    "location": "Trong két sắt nhỏ (cần mật khẩu ELARA).",
+    "content": "BỆNH ÁN\nBệnh nhân: Marius\nChẩn đoán: Rối loạn stress sau sang chấn (PTSD), Trầm cảm tái phát.\nNguyên nhân: Sang chấn tâm lý sau sự việc tan rã của nhóm nhạc “ELARA” nhiều năm trước.",
+    "purpose": "Cung cấp bối cảnh sâu sắc cho hành động của Marius, giải thích tại sao ông lại bảo vệ AURORA một cách cực đoan.",
+    "gm_explanation": "Cung cấp bối cảnh sâu sắc cho hành động của Marius, giải thích tại sao ông lại bảo vệ AURORA một cách cực đoan."
+  },
+  {
+    "id": "K12",
+    "name": "Ghi chép của một nhân viên thực tập",
+    "location": "Lời khai có thể được “mua” từ GM.",
+    "content": "“Sáng nay lúc khoảng hơn 10 giờ, tôi đi ngang phòng họp và nghe thấy tiếng cãi vã rất lớn. Tôi nghe rõ giọng của quản lý Marius và hình như là của anh Silas. Giọng anh Silas rất tức giận, còn hét lên điều gì đó về ‘sự sỉ nhục’. Tôi sợ quá nên đi luôn.”",
+    "purpose": "Xác thực mâu thuẫn của Silas với nạn nhân, biến anh thành một nghi phạm rõ ràng.",
+    "gm_explanation": "Xác thực mâu thuẫn của Silas với nạn nhân, biến anh thành một nghi phạm rõ ràng."
+  },
+  {
+    "id": "MT9",
+    "name": "Đơn đề xuất tăng lương trong tủ tài liệu",
+    "location": "Trong tủ tài liệu của Stella (cần mật khẩu AURORA).",
+    "content": "ĐƠN ĐỀ XUẤT NHÂN SỰ\nNgười đề xuất: Marius (Quản lý trưởng)\nNội dung: Đề xuất tăng lương và trợ cấp cho Trưởng phòng Stylist - Stella, vì những cống hiến lâu dài và xem xét hoàn cảnh cá nhân đặc biệt.\nPhê duyệt: Đã ký - Marius",
+    "purpose": "Cho thấy Marius vẫn quan tâm và đang cố gắng giúp đỡ Stella, làm suy yếu động cơ tài chính của cô.",
+    "gm_explanation": "Manh mối “Marius người tốt”, cho thấy ông vẫn quan tâm và đang cố gắng giúp đỡ Stella, làm suy yếu động cơ tài chính của cô."
+  },
+  {
+    "id": "NOTE1",
+    "name": "Tờ giấy note không ký tên trong tủ tài liệu",
+    "location": "Trong tủ tài liệu của Stella (cần mật khẩu AURORA).",
+    "content": "“Đừng nghĩ cô có thể qua mặt tôi. Tôi biết tất cả về cô và Marius. Cả chuyện về thằng bé nữa.”",
+    "purpose": "Cho thấy Stella đang bị Domina gây áp lực và tống tiền bằng bí mật quá khứ, cung cấp cho Stella một lời bào chữa.",
+    "gm_explanation": "Cho thấy Stella đang bị Domina gây áp lực và tống tiền bằng bí mật quá khứ, cung cấp cho Stella một lời bào chữa."
+  },
+  {
+    "id": "G4",
+    "name": "Pick gảy đàn của Rexus",
+    "location": "Rơi gần bàn làm việc của Marius.",
+    "content": "Một chiếc pick gảy đàn guitar màu đen, có khắc ký hiệu một con sói nhỏ - ký hiệu riêng của Rexus.",
+    "purpose": "Manh mối vật lý trực tiếp đặt Rexus tại hiện trường, củng cố mạnh mẽ giả thuyết anh là hung thủ.",
+    "gm_explanation": "Manh mối vật lý trực tiếp đặt Rexus tại hiện trường, củnged cố mạnh mẽ giả thuyết anh là hung thủ, đặc biệt là trước khi có báo cáo pháp y chi tiết."
+  }
+]
